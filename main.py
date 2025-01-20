@@ -1,4 +1,4 @@
 x = 0
 while True:
     print(f"hi {x}")
-    x += 1
+    x += 2
