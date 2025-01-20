@@ -1,4 +1,4 @@
 x = 0
-while True:
-    print(f"hi {x}")
-    x += 4
+while x<=10:
+    print("hi")
+    x+=1
